@@ -1,6 +1,6 @@
 # Quizer
 
-Quzier, internet üzerinden online olarak programlama sınavı yapabilmeniz için geliştirilmitşir.
+Quzier, internet üzerinden online olarak programlama sınavı yapabilmeniz için geliştirilmiştir.
 
   - Bir çok programlama dilini destekler
   - Yönetimi ve kullanımı oldukça basittir
@@ -23,7 +23,7 @@ Quizer aşağıda ki teknolojileri kullanır:
 
 ### Kurulum
 
-Kaynak dosyaları proje klasörüne yükleyip, `quizer.db` dosyasını veri tabanınıza aktarın. Ardından `settings/config.php` içerisinde ki MySQL veri tabanı bilgilerinizi girin.
+Kaynak dosyaları proje klasörüne yükleyip, `quizer.db` dosyasını veri tabanınıza aktarın. Ardından `settings/config.php` içerisinde ki alana MySQL veri tabanı bilgilerinizi girin.
 
 Veri tabanı üzerinde `quizer_site` tablosunda site URL adresini düzenleyin. Sistem hazır.
 
